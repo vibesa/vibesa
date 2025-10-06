@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hei, olen Ville Berg
 
-<!--
-**vibesa/vibesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tietotekniikan lehtori ja ohjelmistokehityksen intohimoinen opettaja. Erityisesti kiinnostunut Rustista, datan visualisoinnista ja generatiivisesta tekoälystä. Tämänkin tekstin tuottamisessa olen hyödyntänyt generatiivista tekoälyä.
 
-Here are some ideas to get you started:
+## 🔧 Osaamisalueet
+- Java, C#, Node.js, Python, Delphi
+- Web-kehitys (REST, Spring, Vaadin, Actix, React.js)
+- Data-analytiikka ja visualisointi
+- Tekoäly
+- IoT ja Raspberry Pi -projektit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projektit
+- [Rust REST API -opetusprojekti](https://github.com/kayttuodossa](https://github.com/kayttajatus](https://github.com/kayttaja/doomville.berg@example.com
+- LinkedIn: Ville Berg
