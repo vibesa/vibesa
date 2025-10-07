@@ -12,3 +12,6 @@ Tietotekniikan lehtori ja ohjelmistokehityksen intohimoinen opettaja. Erityisest
 ## 📁 Projektit
 - [Rust REST API -opetusprojekti](https://github.com/kayttuodossa](https://github.com/kayttajatus](https://github.com/kayttaja/doomville.berg@example.com
 - LinkedIn: Ville Berg(https://fi.linkedin.com/in/ville-berg-a1876683)
+
+
+Moikka!
